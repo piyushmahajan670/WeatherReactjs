@@ -1,1 +1,5 @@
-# WeatherReactjs
+# Weather-App-using-Reactjs
+Hlo everyone, i have created this simple weather app using OpenweatherMap Api. It is single webapp in which my mainly focus on learning  API Fetching.
+
+
+The app should precise and up-to-date information about temperature, humidity, wind speed, and other weather conditions.
