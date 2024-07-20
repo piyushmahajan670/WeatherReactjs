@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sec{
+ font-size:1rem;
+   padding-top: 8rem; 
+}
+
+.clas button:hover{
+    background-color: rgb(226, 226, 236);
+    color:black;
+cursor: pointer;
+}
+.fw{
+    font-size: 20px;
+}
+.id{
+ color:azure;
+    background-image: url('./img/weather.jpg');
+    background-image: url('./img/weather.jpg');
+    height: 100vh;
+background-position:center ;
+background-repeat: no-repeat;
+text-align: center;
+
+background-size: cover;
+}
